@@ -9,7 +9,7 @@
  
   - :computer: Técinico em Informática - CTMA
   - :school_satchel: Graduando Análise e Desenvolvimento de Sistemas
-  - :necktie: Desenvolvedor de Sitemas
+  - :necktie: Desenvolvedor de Sistemas
   
 # Technologies :open_file_folder:
 
