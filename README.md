@@ -8,7 +8,7 @@
  :taurus: Opaa... Meu nome é Aureo Bueno, tenho 19 anos! 
  
   - :computer: Técnico em Informática - CTMA
-  - :school_satchel: Graduando Análise e Desenvolvimento de Sistemas
+  - :school_satchel: Graduando Análise e Desenvolvimento de Sistemas - FATEC
   - :necktie: Desenvolvedor de Sistemas
   
 # Technologies :open_file_folder:
