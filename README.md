@@ -9,8 +9,7 @@
  
   - :computer: Técnico em Informática - CTMA
   - :school_satchel: Graduando Análise e Desenvolvimento de Sistemas - FATEC
-  - Estagiário de Ti - Styropek EPS Do Brasil Ltda.
-  - :necktie: Desenvolvedor de Sistemas
+
   
 # Technologies :open_file_folder:
 
