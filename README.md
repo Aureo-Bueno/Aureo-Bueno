@@ -10,11 +10,11 @@ Opaa... Meu nome é Aureo Bueno, tenho 20 anos!
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Aureo-Bueno">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aureo-Bueno&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Aureo-Bueno">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aureo-Bueno&show_icons=true&theme=dracula&line_height=27" alt="**Aureo Bueno** github stats"/>
 </a>
 
   
