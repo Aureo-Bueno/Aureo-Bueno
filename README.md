@@ -29,7 +29,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aureo-Bueno&show_icons=true)
 
 <p align="left">
-  💌 Comtatos: ⤵️
+  💌 Contatos: ⤵️
 </p>
 
 <p align="left">
