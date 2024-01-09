@@ -9,7 +9,7 @@
 <p align="left">
 🔭 Atualmente estou estudando e trabalhando em me aprimorar no Back-end e no CleanCode em ambas stacks
 </p>
-----
+##
 
 ## 🚀 Minhas Skills
 
@@ -27,9 +27,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" /></code>
 
 
-<p align="left">
-  💌 Contatos: ⤵️
-</p>
+## <p align="left"> 💌 Contatos: ⤵️</p>
 
 <p align="left">
   <a href="#" alt="Gmail">
