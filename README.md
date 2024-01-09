@@ -1,25 +1,21 @@
-## 💜 Olá, meu nome é <strong>{Aureo Bueno}!</strong>
+# 👋 Olá, eu sou o {Aureo Bueno}!
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-> Ensino Técnico: Tecnico em Informática - CTMA
-</p>
+## 🎓 Formação
 
-<p align="left"> 
-> Técnologo: Análise e Desenvolvimento de Sistema - FATEC
-</p>
+- Técnico em Informática - CTMA
+- Análise e Desenvolvimento de Sistemas - FATEC
 
-<p align="left"> 
-> Sou um Desenvolvedor Full Stack Web, e busco sempre em aprender tecnologias atuais e que me interessa,
-</p>
+## 👨‍💻 Sobre mim
 
-<p align="left">
-🔭 Atualmente estou estudando e trabalhando em me aprimorar no Back-end e no CleanCode em ambas stacks
-</p>
+Sou um Desenvolvedor Full Stack Web, sempre em busca de aprender tecnologias atuais e me aprimorar constantemente.
 
+- 🔭 Atualmente focado em aprimorar minhas habilidades no Back-end e em Clean Code em ambas stacks.
 
 ## 🚀 Minhas Skills
+
+### Linguagens e Ferramentas
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
@@ -35,14 +31,16 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" /></code>
 
 
-## <p align="left"> 💌 Contatos: ⤵️</p>
+## 📫 Entre em contato
+
+Encontre-me online e vamos conversar sobre tecnologia, desenvolvimento ou qualquer outro tópico interessante!
 
 <p align="left">
-  <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=aureo.bueno02@gmail.com" />
+  <a href="mailto:aureo.bueno02@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aureo-alexandre-10b0a31a4/" />
+  <a href="https://www.linkedin.com/in/aureo-alexandre-10b0a31a4/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
 </p>
