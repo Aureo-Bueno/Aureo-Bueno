@@ -3,13 +3,21 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
+> Ensino Técnico: Tecnico em Informática - CTMA
+</p>
+
+<p align="left"> 
+> Técnologo: Análise e Desenvolvimento de Sistema - FATEC
+</p>
+
+<p align="left"> 
 > Sou um Desenvolvedor Full Stack Web, e busco sempre em aprender tecnologias atuais e que me interessa,
 </p>
 
 <p align="left">
 🔭 Atualmente estou estudando e trabalhando em me aprimorar no Back-end e no CleanCode em ambas stacks
 </p>
-##
+
 
 ## 🚀 Minhas Skills
 
