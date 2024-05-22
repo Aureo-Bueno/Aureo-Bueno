@@ -1,15 +1,5 @@
 # 👋 Olá, meu nome é {Aureo Bueno}!
 
-### Experiência de trabalho
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQGiYD27cim-8w/company-logo_100_100/0/1704723757261/smt_solues_em_tecnologia_logo?e=1724284800&v=beta&t=jO-72vD13s0NgBfiiJxEZabA2-6jhNFhsH9Xogk_Gx8"/>](https://www.smtcode.com/)
-
-**Desenvolvedor** \
-[**SMT**]([https://www.spacex.com/](https://www.smtcode.com/)) • Full-time \
-Linguagens & Tecnologias: `.NET`, `React`, `Ruby`, `JavaScript`, `Rails`, `Typescript`
-<br/>
-<br/>
-
 ## 🚀 Minhas Skills
 
 ### Linguagens e Ferramentas
