@@ -8,6 +8,7 @@
 [**SMT**]([https://www.spacex.com/](https://www.smtcode.com/)) • Full-time \
 Linguagens & Tecnologias: `.NET`, `React`, `Ruby`, `JavaScript`, `Rails`, `Typescript`
 <br/>
+<br/>
 
 ## 🚀 Minhas Skills
 
