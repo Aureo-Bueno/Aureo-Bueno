@@ -1,17 +1,13 @@
 # 👋 Olá, meu nome é {Aureo Bueno}!
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador iuriCode">
+### Experiência de trabalho
 
-## 🎓 Formação
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQGiYD27cim-8w/company-logo_100_100/0/1704723757261/smt_solues_em_tecnologia_logo?e=1724284800&v=beta&t=jO-72vD13s0NgBfiiJxEZabA2-6jhNFhsH9Xogk_Gx8"/>](https://www.smtcode.com/)
 
-- Técnico em Informática - CTMA
-- Análise e Desenvolvimento de Sistemas - FATEC
-
-## 👨‍💻 Sobre mim
-
-Sou um Desenvolvedor Full Stack Web, sempre em busca de aprender tecnologias atuais e me aprimorar constantemente.
-
-- 🔭 Atualmente focado em aprimorar minhas habilidades no Back-end e em Clean Code em ambas stacks.
+**Desenvolvedor** \
+[**SMT**]([https://www.spacex.com/](https://www.smtcode.com/)) • Full-time \
+Linguagens & Tecnologias: `.NET`, `React`, `Ruby`, `JavaScript`, `Rails`, `Typescript`
+<br/>
 
 ## 🚀 Minhas Skills
 
@@ -23,6 +19,8 @@ Sou um Desenvolvedor Full Stack Web, sempre em busca de aprender tecnologias atu
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
 ## Jogos
