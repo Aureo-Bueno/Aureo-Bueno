@@ -1,36 +1,18 @@
-# 👋 Olá, meu nome é {Aureo Bueno}!
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Aureo-Bueno&show_icons=true&title_color=0a1f44&text_color=12355b&icon_color=0a1f44&bg_color=f0f4f8&cache_seconds=2300" alt="ilustração do status do github">
 
-## 🚀 Minhas Skills
+### Olá, meu nome é {Aureo Bueno}!
 
-### Linguagens e Ferramentas
+<img src="https://img.shields.io/static/v1?label=Overview&message=AureoBueno&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+<p>Eu sou desenvolvedor Full Stack</p>
 
-## Jogos
 
-<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
+📫 **Como me encontrar:**
 
-## 📫 Entre em contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AureoBueno-0a1f44?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aureo-alexandre-10b0a31a4/)
+[![Email](https://img.shields.io/badge/Email-contato@aureobueno.dev-0a1f44?style=for-the-badge&logo=gmail)](mailto:contato@aureoalexandre@outlook.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-aureobueno.dev-0a1f44?style=for-the-badge&logo=vercel)](https://aureo-bueno.vercel.app/)
 
-Encontre-me online e vamos conversar sobre tecnologia, desenvolvimento ou qualquer outro tópico interessante!
 
-<p align="left">
-  <a href="mailto:aureo.bueno02@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" />
-  </a>
 
-  <a href="https://www.linkedin.com/in/aureo-alexandre-10b0a31a4/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-</p>
+_“Código limpo é como humor. Quando você tem que explicar, não é tão bom.”_ – Martin Fowler
